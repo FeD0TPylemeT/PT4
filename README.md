@@ -1,5 +1,5 @@
 Код
-
+```csharp
 using System;
 
 class Program
@@ -203,3 +203,4 @@ class Program
         return action;
     }
 }
+```csharp
