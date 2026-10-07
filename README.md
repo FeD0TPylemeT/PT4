@@ -1,5 +1,5 @@
 Код
-```
+```С#
 using System;
 class Program
 {
@@ -202,4 +202,4 @@ class Program
         return action;
     }
 }
-```
+```C#
