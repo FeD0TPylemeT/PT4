@@ -1,7 +1,6 @@
 Код
 
-```
-
+```Csharp
 using System;
 using System.Drawing;
 
