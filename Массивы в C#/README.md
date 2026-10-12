@@ -1,6 +1,6 @@
 Код
 
-```csharp
+``
 using System;
 using System.Drawing;
 
@@ -96,4 +96,4 @@ class Program
         }
     }
 }
-```
+`
